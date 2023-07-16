@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/persional-web/static/css/main.ec12cec2.css",
+    "main.js": "/persional-web/static/js/main.37c16d23.js",
+    "static/media/bootstrap-icons.woff?": "/persional-web/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/persional-web/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/persional-web/index.html",
+    "main.ec12cec2.css.map": "/persional-web/static/css/main.ec12cec2.css.map",
+    "main.37c16d23.js.map": "/persional-web/static/js/main.37c16d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec12cec2.css",
+    "static/js/main.37c16d23.js"
+  ]
+}
